@@ -33,3 +33,7 @@ Use this extension responsibly and adhere to YouTube's terms of service.
 
 ## Issues and Contributions
 Feel free to report any issues or contribute to the development of this extension by creating pull requests or issues on the [eport a Bug ](https://github.com/samyak2403/U4Bloker/issues).
+### License
+```
+
+```
