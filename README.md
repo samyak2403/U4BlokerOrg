@@ -1,6 +1,7 @@
 # U4Bloker: YouTube Ads Blocker Extension
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Scre![ad-block (4)](https://github.com/samyak2403/U4BlokerOrg/assets/126759819/7d5cce71-b116-48ad-b8b6-a6d432d3fd4a)
+enshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
 
 ## Description
