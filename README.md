@@ -1,5 +1,8 @@
 # U4Bloker: YouTube Ads Blocker Extension
 
+![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
+
 ## Description
 U4Bloker is a specialized Google Chrome extension tailored to block ads on YouTube, providing an uninterrupted viewing experience. Developed by Samyak2403, this extension efficiently blocks intrusive ads during YouTube playback, ensuring a seamless and distraction-free video-watching session.
 
